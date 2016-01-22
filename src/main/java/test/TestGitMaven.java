@@ -6,6 +6,7 @@ public class TestGitMaven {
         System.out.print("edit the second time");
         System.out.print("edit the second time");
         System.out.print("edit the second time");
+        System.out.print("edit the second time");
     }
 
 }
